@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03ad113b-4de6-47ff-a682-6cc26a5136f1" name="Changes" comment="Lista de objetos distintos">
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/principal/PrincipalComBusca.java" afterDir="false" />
+    <list default="true" id="03ad113b-4de6-47ff-a682-6cc26a5136f1" name="Changes" comment="Integração com a API do OMDb">
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/TituloOmdb.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/principal/PrincipalComListas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/principal/PrincipalComListas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenmatch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/screenmatch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/principal/PrincipalComBusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/principal/PrincipalComBusca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Titulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Record" />
       </list>
     </option>
   </component>
@@ -55,7 +58,11 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/wesll/OneDrive/Área de Trabalho/estudos/alura/escola_de_programacao/screenmatch/src/Main.java"
+    "last_opened_file_path": "C:/Users/wesll/OneDrive/Área de Trabalho/estudos/alura/escola_de_programacao/screenmatch/dependencia/gson-2.13.2.jar",
+    "onboarding.tips.debug.path": "C:/Users/wesll/OneDrive/Área de Trabalho/estudos/alura/escola_de_programacao/screenmatch/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RunManager" selected="Application.PrincipalComBusca">
@@ -189,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742257848166</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Integração com a API do OMDb">
+      <option name="closed" value="true" />
+      <created>1763596138351</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1763596138351</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -198,6 +213,7 @@
     <MESSAGE value="Coleção de filmes" />
     <MESSAGE value="Construindo objetos" />
     <MESSAGE value="Lista de objetos distintos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lista de objetos distintos" />
+    <MESSAGE value="Integração com a API do OMDb" />
+    <option name="LAST_COMMIT_MESSAGE" value="Integração com a API do OMDb" />
   </component>
 </project>
